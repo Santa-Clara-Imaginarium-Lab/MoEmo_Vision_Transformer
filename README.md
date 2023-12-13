@@ -7,7 +7,7 @@ MoEmo Vision Transformer is a new approach in HRI(human-robot interaction) becau
 </div>
 
 # News!
-- Dec 2023: [SoloPose](https://developer.nvidia.com/cuda-downloads](https://github.com/Santa-Clara-Media-Lab/SoloPose)) is released!
+- Dec 2023: [SoloPose](https://github.com/Santa-Clara-Media-Lab/SoloPose) is released!
 - Nov 2023: Our paper's codes are released!
 - Oct 2023: Our paper was accepted by IROS 2023 (IEEE/RSJ International Conference on Intelligent Robots and Systems).
 
