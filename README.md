@@ -75,7 +75,9 @@ git clone https://github.com/paTRICK-swk/P-STMO.git
 
 
 
+5. Our model‘s checkpoints
 
+- Dowload [here](https://drive.google.com/file/d/1Ur4o0GXug_g1zMAjNI23SGKM4JzacD5A/view?usp=drive_link)
 
 
 
